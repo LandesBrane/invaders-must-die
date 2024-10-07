@@ -3,13 +3,13 @@
 	"id": "invaders-must-die",
 	"version": "${version}",
 	"name": "Invaders Must Die",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Meow",
 	"authors": [
-		"Me!"
+		"LandesBrane"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://nxrv.ru/",
+		"sources": "https://github.com/LandesBrane/invaders-must-die"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/invaders-must-die/icon.png",
